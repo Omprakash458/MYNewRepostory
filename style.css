@@ -7,3 +7,12 @@ h1 {
 p {
   line-height: 1.6; /* Sets line spacing for paragraphs */
 }
+
+Adding the Code to deploy
+.container {
+  background-color: #f0f0f0; /* Sets background color to light grey */
+  border: 1px solid #ccc; /* Adds a light grey border */
+  padding: 20px; /* Adds padding inside the element */
+  margin: 10px auto; /* Centers the element horizontally with margin */
+  border-radius: 8px; /* Adds rounded corners */
+}
