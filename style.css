@@ -1,0 +1,9 @@
+h1 {
+  color: navy; /* Sets heading color to navy */
+  font-size: 2.5em; /* Sets heading font size relative to parent */
+  margin-bottom: 15px; /* Adds space below the heading */
+}
+
+p {
+  line-height: 1.6; /* Sets line spacing for paragraphs */
+}
