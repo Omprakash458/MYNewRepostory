@@ -8,6 +8,7 @@ p {
   line-height: 1.6; /* Sets line spacing for paragraphs */
 }
 
+<<<<<<< Updateiuuuuuuupstream
 Adding the Code to deploy
 .container {
   background-color: #f0f0f0; /* Sets background color to light grey */
@@ -16,3 +17,6 @@ Adding the Code to deploy
   margin: 10px auto; /* Centers the element horizontally with margin */
   border-radius: 8px; /* Adds rounded corners */
 }
+=======
+*Adding the data.
+>>>>>>> Stashed changes
